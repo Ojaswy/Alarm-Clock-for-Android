@@ -1,5 +1,4 @@
-package com.example.exno11;
-package ojas.alarmclock.alarm
+package ojas.alarmclock.alarm;
  
 import android.app.AlarmManager;
 import android.app.PendingIntent;
