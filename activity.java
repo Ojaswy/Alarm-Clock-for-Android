@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity
     PendingIntent pendingIntent;
     AlarmManager alarmManager;
  
-    @Override Override
+    @Override 
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
